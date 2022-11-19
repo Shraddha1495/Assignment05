@@ -53,7 +53,7 @@ import seaborn as sns
 Project Link - https://github.com/Shr4944/Assignment05.git
 ## Contributing
 
-Please read https://github.com/Shr4944/Assignment05/blob/b78c637f9d3cd4e4fd9a6c727d1bce82309fe7db/contribution.md for more details of this project
+Please read contribution.md  for more details of this project
 
 ## Acknowledgements
 
