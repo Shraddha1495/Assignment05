@@ -1,6 +1,3 @@
-# Assignment05
-
-
 # Data Transformation using Python
 
 This project is extracting 1000 rows from 4000 rows excel file. 
@@ -19,15 +16,13 @@ was plotted using distplot function from seaborn library.
 
 ## Authors
 
-- Harneet Kaur - 100810364
 - Shraddha Khadepatil - 100820094
-- Stephenson Stanley - 100838109
-- Annika Goel - 100871908
-- Kishor Bhattarai - 100894895
+
 ## Built with
 
 
 Jupyter Notebook
+
 ## Python version
 
 
