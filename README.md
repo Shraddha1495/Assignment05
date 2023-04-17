@@ -1,5 +1,3 @@
-# Assignment05
-
 
 # Data Transformation using Python
 
@@ -19,11 +17,8 @@ was plotted using distplot function from seaborn library.
 
 ## Authors
 
-- Harneet Kaur - 100810364
-- Shraddha Khadepatil - 100820094
-- Stephenson Stanley - 100838109
-- Annika Goel - 100871908
-- Kishor Bhattarai - 100894895
+Shraddha Khadepatil 
+
 ## Built with
 
 
